@@ -12,6 +12,7 @@ public class Principal {
 		#op3: Venga pabajo1!
 		#op4: venga parriba1!
 		#op5: venga pabajo2!
+		#op6: venga parriba3!
 	}
 
 }
